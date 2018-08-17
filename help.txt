@@ -1,0 +1,8 @@
+this is how you clone
+
+git clone https://www.github.com/Username/repo
+
+add a file
+
+git commit
+git push
